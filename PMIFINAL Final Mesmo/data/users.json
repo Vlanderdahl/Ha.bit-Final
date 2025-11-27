@@ -1,0 +1,23 @@
+[
+  {
+    "id": "16179faa-fa00-4840-963a-75fd845ce447",
+    "name": "Matheus Alberton",
+    "email": "matheusalberton123@gmail.com",
+    "password": "$2a$10$Bp0fbWjLE0AWS0FbYsXj.eg.R0bRpxGqsBkmDE3njl25LbOQXiWQC",
+    "createdAt": "2025-11-24T23:00:19.966Z"
+  },
+  {
+    "id": "11882631-8ebb-49cc-9510-f6fe3e97ad45",
+    "name": "Rógerio Alvez",
+    "email": "rogerioalvez@gmail.com",
+    "password": "$2a$10$Wqm4ZAUgpZg2h0.AK6c33OnYZIzmcFAXnOyWiPH8cUCNWno7oepZu",
+    "createdAt": "2025-11-25T17:08:39.188Z"
+  },
+  {
+    "id": "4607d8c7-b6cc-460a-8508-f7a74b57b82b",
+    "name": "Carol Souza",
+    "email": "carolsouza@gmail.com",
+    "password": "$2a$10$Jnv8U.2J7T78EoKs91eZieTA.24CpDRTH4zX/Ru3xm80sMzLE1cMC",
+    "createdAt": "2025-11-25T17:55:00.321Z"
+  }
+]
